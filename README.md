@@ -8,7 +8,7 @@ stages {
 stage('Checkout') {
 steps {
 git branch: 'main',
-url: 'https://github.com/Priyanshu-Madhup/exp6.git'
+url: 'https://github.com/aryaabhas/p06.git'
 }
 }
 stage('Build') {
